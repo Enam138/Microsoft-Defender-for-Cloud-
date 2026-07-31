@@ -1,5 +1,17 @@
 # Microsoft Defender for Cloud – Cloud Security Posture Management
 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Implemented-success?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Microsoft%20Azure-blue?style=flat-square)
+
+
+## Project Overview
+
 ## Project Overview
 
 This project demonstrates how I used Microsoft Defender for Cloud to assess, monitor, and improve the security posture of an Azure environment.
